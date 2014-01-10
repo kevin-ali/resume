@@ -10,11 +10,13 @@ a:hover {
 }
 
 a:visited {
-	color: black;
+	color: orange;
+	text-decoration: none;
 }
 
 a:link {
-	color: black;
+	color: orange;
+	text-decoration: none;
 }
 
 img {
