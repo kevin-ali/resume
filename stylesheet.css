@@ -1,0 +1,75 @@
+/*
+div {
+	display: inline-block;
+}
+*/
+
+a:hover {
+	color: red;
+	font-weight: bold;
+}
+
+a:visited {
+	color: black;
+}
+
+a:link {
+	color: black;
+}
+
+img {
+	margin-left: 25px;
+}
+
+h3 {
+	font-family: Verdana;
+	margin-left: 25px;
+}
+
+#sidebar {
+	width: 200px;
+	margin-right: 100px;
+/*	height: 600px; 
+	background-color: blue; */
+	position: fixed;
+	float: left;
+}
+
+.side {
+	margin-left: 20px;
+	margin-right: 10px;
+	
+}
+
+#core {
+	width: 1140px;
+/*	height: 600px; 
+	background-color: green; */
+	position: relative;
+	float: right;
+
+	
+}
+
+hr {
+	
+	width: 600px;
+
+}
+
+p {
+	margin-left: 50px;
+	margin-right: 300px;
+	font-family: Verdana;
+}
+
+li {
+	font-family: Verdana;
+	margin-left: 35px;
+	margin-right: 300px;
+}
+
+h2 {
+	font-family: Verdana;
+	margin-left: 35px;
+}
